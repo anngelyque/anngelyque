@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @anngelyque
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning React and Javascript, but I'm interested in learning just about anything!
+- 📫 anngelyque@gmail.com
